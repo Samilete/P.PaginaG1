@@ -1,0 +1,65 @@
+// o cod do CSS está no arquivo zip
+body{
+  padding: 25px;
+}
+.title {
+    color: #5C6AC4;
+}
+.link{
+  color: gray;
+  font-size: 15px;
+}
+h1 {
+  font-size: 40px;
+  line-height: 38px;
+}
+h2{
+  margin-right: 200px;
+  margin-left: 200px;
+}
+hr {
+  width: 85%;
+}
+.vermelho {
+  width: 20%;
+  color: red;
+}
+li {
+  color: rgb(255, 0, 0) ;
+}
+B {
+  color: red;
+}
+.p1{
+  margin-right: 200px;
+  margin-left: 200px;
+  font-style: normal;
+  font-size: large;
+  line-height: 28px;
+  opacity: 85%;
+}
+.p2 {
+  margin-right: 200px;
+  margin-left: 200px;
+  font-style: normal;
+  font-size: large;
+  line-height: 28px;
+  opacity: 85%;
+}
+.sub {
+  opacity: 70%;
+  font-size: 18px;
+}
+.data{
+  font-size: small;
+}
+.cita {
+  font-size: x-large;
+  margin-left: 200px;
+  margin-right: 200px;
+  opacity: 90%;
+}
+.cabeca {
+  margin-left: 110px;
+  margin-right: 110px;
+}
